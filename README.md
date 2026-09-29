@@ -8,4 +8,4 @@ The mechanical design was developed by considering actual field conditions, crop
 
 ## Final Model
 
-![Final Model](cropmitra labelled.png)
+![Final Model](cropmitralabelled.png)
